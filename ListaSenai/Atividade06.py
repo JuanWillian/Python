@@ -1,0 +1,7 @@
+print("Digite o seu nome: ")
+nome = input()
+print("Digite sua idade: " )
+idade = int(input())
+print("Digite seu sexo: " )
+sexo = input()
+print("Olá",nome,"\nSua idade:",idade,"\nSeu sexo:", sexo)
